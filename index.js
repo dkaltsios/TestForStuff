@@ -11,7 +11,7 @@ import { moveTowardClosestFood } from './snakeMovement.js'
 // and controls your Battlesnake's appearance
 // TIP: If you open your Battlesnake URL in a browser you should see this data
 function info() {
-  console.log('INFO')
+  console.log('PAPAROS')
 
   return {
     apiversion: '1',
