@@ -25,7 +25,7 @@ import { filterDeadEndMoves } from './snake/movement/floodFill.js'
 
 // info is called when you create your Battlesnake on play.battlesnake.com and controls your Battlesnake's appearance
 function info() {
-  console.log('INFO')
+  console.log('PAPAROS')
 
   return {
     apiversion: '1',
